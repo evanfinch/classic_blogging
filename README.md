@@ -1,7 +1,7 @@
 Classic Blogging
 ================
 
-![alt tag](https://github.com/evanfinch/classic_blogging/blob/master/screenshot.png)
+![alt tag](http://evanfinch.altervista.org/wp-content/uploads/2014/05/screenshot.png)
 
 __A Free Wordpress Theme__
 
